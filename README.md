@@ -36,5 +36,5 @@ Currently exploring **DevOps, Cloud, Data Science, and Full-Stack Development** 
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
-- ✉️ Email: YOUR-EMAIL@example.com  
-- 🌐 Portfolio: YOUR-PORTFOLIO-LINK  
+- ✉️ Email: ksanoofk@gmail.com  
+- 🌐 Portfolio:   
